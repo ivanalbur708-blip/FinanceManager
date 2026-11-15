@@ -1,0 +1,15 @@
+
+===== Finance Manager Report =====
+Date: 2026-11-12
+
+ Total expenses: 400
+Food: 100
+Games: 300
+
+===== TOP-3 Expenses =====
+1. Games | Amount: 300 | Date: 2026-11-11
+2. Food | Amount: 100 | Date: 2026-11-08
+
+===== TOP-3 Categories =====
+1. Games | Total: 300
+2. Food | Total: 100

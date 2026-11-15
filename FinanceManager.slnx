@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FinanceManager.vcxproj" Id="107c5595-74d7-4573-ac89-84425d7043be" />
+</Solution>
